@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 // models 各种模块 用户模块 登陆模块 注册模块 etc
 
-//连接数据库
+//connecting data base
 mongoose.connect("mongodb://localhost: 27017/sc2", { 
     useNewUrlParser: true,
     useUnifiedTopology: true,
