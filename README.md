@@ -2,7 +2,7 @@
 ---
 This is a login/auth live chat single page application build by ***MERN (Mongodb, Express.JS, React.JS (react-redux), Node.JS)*** stack along with real-time chat system socket.IO + Blueimp.MD5 password security
 
-<img src="https://i.ibb.co/ChpN8XS/73026610-65-C7-40-E9-B96-A-C5-E9-DED097-EE.jpg" width = "30" height = "100" />
+<img src="https://i.ibb.co/ChpN8XS/73026610-65-C7-40-E9-B96-A-C5-E9-DED097-EE.jpg" width = "220" height = "300" />
 
 # Demo URL:
 ---
@@ -37,4 +37,4 @@ Run CMD: `npm start`
 
 # Contact Me
 ---
-`@github`
+`i-le@github`
