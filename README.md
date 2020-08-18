@@ -31,7 +31,7 @@ MongoDB Cloud: could databse could connecting with depolyed heroku app
 
 ### Running on local environment
 
-**JSON** file, replace proxy => localhost: 3000
+under **JSON** file, replace proxy => localhost: 3000
 
 Run CMD: `npm start`
 
