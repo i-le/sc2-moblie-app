@@ -1,0 +1,5 @@
+version change 1.0 to 2.0
+
+change auth
+
+change redux life cycle
