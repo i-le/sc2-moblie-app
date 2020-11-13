@@ -1,4 +1,4 @@
-# SC2-HiringLiveChat-Mobile-App
+# SC2 game-Hiring-Mobile-App (live chat)
 ---
 A login/auth live chat single page application build by ***MERN (Mongodb, Express.JS, React.JS (react-redux), Node.JS)*** stack along with real-time chat system socket.IO, with Blueimp.MD5 used password security and more
 
