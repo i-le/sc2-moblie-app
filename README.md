@@ -31,7 +31,7 @@ MongoDB Cloud: could databse could connecting with depolyed heroku app
 
 ### Running on local environment
 
-Open sever file and under SC2 client **JSON** file, replace proxy => localhost: 3000
+Open `SC2 clinet` file and under `SC2 client` **JSON** file, replace proxy => localhost: 3000
 
 Run CMD: `npm start`
 
