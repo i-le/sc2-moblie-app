@@ -6,7 +6,6 @@ module.exports = function(server) {
 
   io.on('connection', function(socket) {
     console.log('socket coonected')
-
     socket.on('sendMsg', function({from, to, content}) {
       console.log('sever succsfully accepted msg from client side', {from, to, content})
       // 处理数据（保存消息）
