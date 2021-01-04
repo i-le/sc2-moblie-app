@@ -16,6 +16,7 @@ module.exports = function(server) {
       new ChatModel({from, to, content, chat_id, create_time}).save(function(err, chatMsg) {
         // sedning msg to client side（A,B..)
         // io: 所有连接的客户端（暂时简单实现）
+        // IO: connecting to the client side (simp
         io.emit('receiveMsg', chatMsg)
         console.log('chagMsg', chatMsg)
       })
