@@ -19,6 +19,4 @@ app.use('/', indexRouter)
 app.use('/users', userRouter)
 
 
-
-
 module.exports = app
