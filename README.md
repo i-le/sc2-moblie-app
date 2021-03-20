@@ -8,7 +8,7 @@ A login/auth live chat application. Tech Stacks ***MERN (Mongodb, Express.JS, Re
 ---
 App has been successfuly deployed to heroku, database is using mongodb cloud
 
-click <a href="https://infinite-eyrie-90501.herokuapp.com/">me !<a> , please, use mobile webview for better experience!
+For more info please click <a href="https://infinite-eyrie-90501.herokuapp.com/">me !<a> , please, use mobile webview for better experience!
   
 # Separation of frontend and backend
 ---
